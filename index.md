@@ -12,3 +12,7 @@ I'm using Markdown!
 var myVar = "Hello, world!";
 ```
 
+Grocery List;
+- [ ] Butter
+- [ ] Milk
+- [x] Eggs
